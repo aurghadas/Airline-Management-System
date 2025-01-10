@@ -1,0 +1,28 @@
+Name = "Aurgha Das"
+Nationality = "Bangladeshi"
+Aadhar = 12345678
+Address = "Barishal, Bangladesh"
+Number = "123"
+Gender = "Male"
+
+Name = "Tahsin Hossain"
+Nationality = "Bangladeshi"
+Aadhar = 123456
+Address = "Chittagong, Bangladesh"
+Number = "321"
+Gender = "Male"
+
+Name = "Lucy"
+Nationality = "Canadian"
+Aadhar = A2133443
+Address = "Guelph"
+Number = "12345678"
+Gender = "Female"
+
+Name = "Mary"
+Nationality = "Canadian"
+Passport = "A24556"
+Address = "London"
+Number = "4321"
+Gender = "Female"
+

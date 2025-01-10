@@ -1,0 +1,49 @@
+Flight_code = 1001
+Flight_name = "BG-1212"
+Source = "Dhaka"
+Destination = "Toronto"
+
+Flight_code = 1009
+Flight_name = "BG-1616"
+Source = "Toronto"
+Destination = "Dhaka"
+
+Flight_code = 1006
+Flight_name = "BG-3214"
+Source = "Dhaka"
+Destination = "London"
+
+Flight_code = 1002
+Flight_name = "BG-1453"
+Source = "London"
+Destination = "Dhaka"
+
+Flight_code = 1003
+Flight_name = "BG-1112"
+Source = "Delhi"
+Destination = "Dhaka"
+
+Flight_code = 1007
+Flight_name = "BG-9999"
+Source = "Dhaka"
+Destination = "Delhi"
+
+Flight_code = 1004
+Flight_name = "BG-3202"
+Source = "Dhaka"
+Destination = "Hanoi"
+
+Flight_code = 1008
+Flight_name = "BG-3222"
+Source = "Hanoi"
+Destination = "Dhaka"
+
+Flight_code = 1005
+Flight_name = "BG-1213"
+Source = "Dhaka"
+Destination = "Beijing"
+
+Flight_code = 1010
+Flight_name = "BG-1010"
+Source = "Beijing"
+Destination = "Dhaka"
