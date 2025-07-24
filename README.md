@@ -37,6 +37,17 @@ The project includes a **Graphical User Interface (GUI)** built with Java Swing 
 
 ---
 
+## How to run the code?
+
+
+1. Navigate to the source directory:
+   ```bash
+   cd "Airline-Management-System/Source Packages/airlinemanagementsystem"
+2. In order to compile all .java file, use this command: javac *.java
+3. Now, to run the program, use this command: java Login
+
+---
+
 ## 🗂️ Project Structure
 
 ```text
