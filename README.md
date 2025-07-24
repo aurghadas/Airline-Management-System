@@ -40,19 +40,19 @@ The project includes a **Graphical User Interface (GUI)** built with Java Swing 
 ## 🗂️ Project Structure
 
 ```text
-Airline-Management-System/
+Airline-Management-System/         # Root project directory
 │
-├── .vscode/
+├── .vscode/                       # VSCode editor configuration files
 |   ├── settings.json
-├── Source Packages/
-|   ├── airlinemanagementsystem/
-|       ├── Files/
+├── Source Packages/               # Main Java source folder containing packages, resources, and data
+|   ├── airlinemanagementsystem/   # Primary package with Java source and class files, data files, and GUI assets
+|       ├── Files/                 # Text files storing necessary data (customers, flights, reservations, etc.)
 |           ├── cancellation.txt
 |           ├── customerDetails.txt
 |           ├── flightDetails.txt
 |           ├── login.txt
 |           ├── reservation.txt
-|       ├── icons/
+|       ├── icons/                 # Image assets used in the GUI
 |           ├── airindia.png
 |           ├── bimanBangladesh.png
 |           ├── cancel.jpg
@@ -84,9 +84,10 @@ Airline-Management-System/
 |       ├── journeyDetails$Reservation.class
 |       ├── journeyDetails.class
 |       ├── journeyDetails.java
-├── lib/
+├── lib/                       # External libraries (.jar files) and their configuration
 |   ├── settings.json
 |   ├── jcalendar-tz-1.3.3-4.jar
 |   ├── mysql-connector-java-8.0.28.jar
 |   ├── rs2xml.jar
-└── README.md                 Project documentation
+└── README.md                  # Project documentation and overview
+
