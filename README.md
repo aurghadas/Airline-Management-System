@@ -39,3 +39,54 @@ The project includes a **Graphical User Interface (GUI)** built with Java Swing 
 
 ## 🗂️ Project Structure
 
+```text
+Airline-Management-System/
+│
+├── .vscode/
+|   ├── settings.json
+├── Source Packages/
+|   ├── airlinemanagementsystem/
+|       ├── Files/
+|           ├── cancellation.txt
+|           ├── customerDetails.txt
+|           ├── flightDetails.txt
+|           ├── login.txt
+|           ├── reservation.txt
+|       ├── icons/
+|           ├── airindia.png
+|           ├── bimanBangladesh.png
+|           ├── cancel.jpg
+|           ├── cancel.png
+|           ├── details.jpg
+|           ├── emp.png
+|           ├── front.jpg
+|           ├── front1.jpg
+|       ├── Home.class
+|       ├── Home.java
+|       ├── Login.class
+|       ├── Login.java
+|       ├── addCustomer$Customer.class
+|       ├── addCustomer.class
+|       ├── addCustomer.java
+|       ├── boardingPass.class
+|       ├── boardingPass.java
+|       ├── bookFlight$1.class
+|       ├── bookFlight$Flight.class
+|       ├── bookFlight$User.class
+|       ├── bookFlight.class
+|       ├── bookFlight.java
+|       ├── cancelFlight$Reservations.class
+|       ├── cancelFlight.class
+|       ├── cancelFlight.java
+|       ├── flightInfo$Flight.class
+|       ├── flightInfo.class
+|       ├── flightInfo.java
+|       ├── journeyDetails$Reservation.class
+|       ├── journeyDetails.class
+|       ├── journeyDetails.java
+├── lib/
+|   ├── settings.json
+|   ├── jcalendar-tz-1.3.3-4.jar
+|   ├── mysql-connector-java-8.0.28.jar
+|   ├── rs2xml.jar
+└── README.md                 Project documentation
