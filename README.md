@@ -16,6 +16,7 @@ The program provides a wide range of essential functionalities that an airline c
 - 🎟️ **Flight Booking** – Book flights for customers with validation.
 - ❌ **Flight Cancellation** – Cancel booked flights with confirmation.
 - 🎫 **Boarding Pass Generation** – Generate printable boarding passes after booking.
+- 🧾 **Journey Details** – View, track, or manage customer itineraries and reservations.
 
 Each of the functionalities is implemented using **modular Java classes**, ensuring clean architecture and scalability.
 
